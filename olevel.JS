@@ -319,6 +319,14 @@ allcol[3].value="#ff0000";
 allcol[4].value="#ffffff";
 allcol[5].value="#908514";
 }
+else if(n==7){
+allcol[0].value="#ffffff";
+allcol[1].value="#f4d985";
+allcol[2].value="#eff236";
+allcol[3].value="#b18181";
+allcol[4].value="#ffffff";
+allcol[5].value="#990094";
+}
 else{
 allcol[0].value="#ffffff";
 allcol[1].value="#ff00ff";
